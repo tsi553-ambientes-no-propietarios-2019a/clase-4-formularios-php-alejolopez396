@@ -1,2 +1,2 @@
 <?php
-echo"Registro ingresado exitosamente";
+echo"Registro Completado";
